@@ -1,6 +1,6 @@
 # VEFÞ2VH05A Vefhönnun
 
-Áfanginn **VEFÞ1VG05** er kenndur á tölvubraut Upplýsingatækniskólans. Í áfanganum er farið í grunnatriði vefsíðuhönnunar og megináhersla lögð á ívafsmál (e. HTML) og stílsíður (e. CSS). Hver þessara þátta er tekinn sérstaklega fyrir og sýnt hvernig samspil þeirra stuðlar að vandaðri uppsetningu og framsetningu vefsíðna. Skoðuð er þróunarsaga vefsins, hlutverk vafrans (_Internet browser_) og virkni hans.
+Nemendur vinna að skipulagningu vefs og fullvinna hann í gegnum verkefnin sem lögð eru fyrir í áfanganum. Unnið er að gerð eigin vinnuramma og stílsíðusafns (_Framework_). Nemendur búa til fellilista (Drop down menu) og skoða hvernig er hægt að nota leturtákn (Icon-fonts) í vefsíðuhönnun. Nemendur vinna með kvikun (_Animation_) til að lífga upp á vefsíður og setja upp samskiptaform og töflu. 
 
 ## Námsáætlun
 
