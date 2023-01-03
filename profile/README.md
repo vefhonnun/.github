@@ -15,7 +15,7 @@
 | 6  | CSS kvikun (animation) | 5  | 8 | 12  |
 | 7  | SVG vigurteikningar (vector graphics)| 6  | 8 | 12 |
 | 8  | Forsíða (landing page) | 7 | 8 | 20 |
-|    | <sub>**Síðasti  kennsludagur 1.mars**. <br> Námsmat 2, 3. mars og 6. Mars.</sub> |  |  | 100%  |
+| 9  | <sub>**Síðasti  kennsludagur 1.mars**. <br> Námsmat 2, 3. mars og 6. Mars.</sub> |  |  | 100%  |
 
 #### 🧙 [Verkefni og námsefni](https://github.com/vefhonnun/23-Verkefni-s1/)
 #### 👋 [Undirbúningur og bjargir](https://github.com/vefhonnun/23-Verkefni-s1/wiki)
