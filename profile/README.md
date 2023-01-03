@@ -2,7 +2,7 @@
 
 Áfanginn **VEFÞ1VG05** er kenndur á tölvubraut Upplýsingatækniskólans. Í áfanganum er farið í grunnatriði vefsíðuhönnunar og megináhersla lögð á ívafsmál (e. HTML) og stílsíður (e. CSS). Hver þessara þátta er tekinn sérstaklega fyrir og sýnt hvernig samspil þeirra stuðlar að vandaðri uppsetningu og framsetningu vefsíðna. Skoðuð er þróunarsaga vefsins, hlutverk vafrans (_Internet browser_) og virkni hans.
 
-## Námsáætlun, í vinnslu !
+## Námsáætlun
 
 #### 2023 vor, spönn 1. 
 
