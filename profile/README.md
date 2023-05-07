@@ -5,6 +5,5 @@ Nemendur vinna að skipulagningu vefs og fullvinna hann í gegnum verkefnin sem 
 #### 🧙 [Verkefni og námsefni](https://github.com/vefhonnun/23-Verkefni-s2/)
 #### 👋 [Undirbúningur og bjargir](https://github.com/vefhonnun/23-Verkefni-s2/wiki)
 
-### [Breyting á námsmati 1. 2. og 3. verkefnis](https://github.com/vefhonnun/23-verkefni-s2/blob/main/Breyting-a-namsmati.md)
 
 
